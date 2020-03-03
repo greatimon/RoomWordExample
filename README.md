@@ -1,5 +1,5 @@
 # RoomWordExample
-Codelabs project_ Android Room with a View - Kotlin_ using MVVM, ViewModel, Room
+Codelabs project:  Android Room with a View
 
 
 ## Table of contents
